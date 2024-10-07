@@ -1,0 +1,30 @@
+body{
+    padding: 20%;
+    padding-top: 0%;
+}
+
+div{
+    border: solid green 0.5em;
+    padding: 5%;
+    padding-top: 1%;
+    position: relative;
+}
+
+#scoiattolo, #cervo{
+    width: 30%;
+    padding-left: 5%;
+    padding-right: 2%;
+}
+
+#scoiattolo-p, #cervo-p{
+    padding-left: 5%;
+}
+
+.img-centrate{
+    display: inline-block;
+}
+
+.figure-orso img{
+    display: flex;
+    margin-top: 2%;
+}
